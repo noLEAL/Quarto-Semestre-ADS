@@ -4,9 +4,9 @@ a = float(input('Digite o primeio numero:'))
 b = float(input('Digite o primeio segundo:'))
 c = float(input('Digite o primeio teceiro:'))
 
-soma = a + b + c
+sum = a + b + c
 
-result = soma/3
+result = sum/3
 
 print('Sua média aritimética é:{:.2f}'.format(result))
 
