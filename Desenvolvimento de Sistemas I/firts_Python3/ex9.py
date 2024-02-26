@@ -8,3 +8,6 @@ base = float(input('Valor da base:'))
 
 perimeter = (height * 2) + (base * 2)
 zone = height * base
+
+print('Perímetro:', perimeter)
+print('Área:', zone)
