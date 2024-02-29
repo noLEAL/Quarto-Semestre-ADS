@@ -2,8 +2,8 @@
 
 import math
 
-nr1 = int(input('Informe um número:'))
+nr1 = int(input("Informe um número para descobrir sua raiz quadrada:"))
 
 nr2 = math.sqrt(nr1)
 
-print(f'A raiz quadrada:{nr2}')
+print(f"A raiz quadrada:{nr2}")
