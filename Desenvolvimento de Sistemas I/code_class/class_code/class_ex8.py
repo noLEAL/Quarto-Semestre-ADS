@@ -1,0 +1,1 @@
+#Questão 29. Lê dois números e mostra soma. Antes do resultado, deverá aparecer a mensagem: SOMA.

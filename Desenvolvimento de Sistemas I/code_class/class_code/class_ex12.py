@@ -1,0 +1,1 @@
+#Questão 37. Elabore um algoritmo que lê o raio de um círculo e mostre como saída o perímetro e a área.
