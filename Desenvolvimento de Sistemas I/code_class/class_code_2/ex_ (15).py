@@ -10,6 +10,9 @@ if nr1 > nr2:
     print("VALOR VALIDADO")
 
     for x in range(nr1,nr2):
+        print(f"{x}")
 
 else:
     print("VALOR INVALIDO")
+    print("Primeiro valor digitado foi menos que o segundo.")
+
