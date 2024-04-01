@@ -1,0 +1,12 @@
+dir - > lista arquivos
+cd [diretorio] - > entra no diretorio
+
+
+
+py manage.py runserver -> roda o programa
+
+py manage.py startapp exemplo -> cria um novo app
+
+py manage.py makemigrations 
+
+py manage.py migrate
