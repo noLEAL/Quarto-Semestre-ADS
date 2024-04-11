@@ -1,12 +1,27 @@
 dir - > lista arquivos
 cd [diretorio] - > entra no diretorio
+cd .. -> volta um diretorio
+cls -> limpa CMD
 
 
 
 py manage.py runserver -> roda o programa
 
-py manage.py startapp exemplo -> cria um novo app
+py manage.py startapp [exemplo] -> cria um novo app
 
 py manage.py makemigrations 
 
 py manage.py migrate
+
+py manage.py createsuperuser -> cria um novo usuario
+
+django-admin-startapp
+
+=======
+shell
+
+from [exemplo].models import [Exemple]
+
+===
+documentação
+link -> site do django - /models/queryset/#id4
